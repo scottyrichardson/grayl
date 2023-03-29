@@ -1,5 +1,5 @@
 
-# Grayl - A PHP e-commerce framework
+# Grayl - A PHP E-commerce Framework
 
 Grayl is as a lightweight modular set of packages to handle several e-commerce website tasks. It is an excellent example of my use of fully object oriented programming, interfaces, abstract classes (see the gateway-common package for precise examples), name spaces, and code coverage with unit tests.
 
