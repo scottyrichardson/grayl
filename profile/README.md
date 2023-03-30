@@ -37,6 +37,10 @@ Each module has its own repo and individual instructions if needed.
 - [grayl-input-floodcheck](https://github.com/scottyrichardson/grayl-input-floodcheck) - Prevents click floods on web forms
 - [grayl-input-form](https://github.com/scottyrichardson/grayl-input-form) - Validates and sanitizes form input - *archived*
 - [grayl-mixin-common](https://github.com/scottyrichardson/grayl-mixin-common) - Common helper classes
+- [grayl-omnipay-common](https://github.com/scottyrichardson/grayl-omnipay-common) - Interfaces and abstract classes for all Omnipay packages
+- [grayl-omnipay-authorizenet](https://github.com/scottyrichardson/grayl-omnipay-authorizenet) - Authorizes, captures, and refunds credit card payments using Authorize.net API
+- [grayl-omnipay-payflow](https://github.com/scottyrichardson/grayl-omnipay-payflow) - Authorizes, captures, and refunds credit card payments using Paypal Payflow API
+- [grayl-omnipay-paypal](https://github.com/scottyrichardson/grayl-omnipay-paypal) - Creates orders and redirects for offsite payment using Paypal API
 - [grayl-store-order](https://github.com/scottyrichardson/grayl-store-order) - The order module for the store package
 - [grayl-store-product](https://github.com/scottyrichardson/grayl-store-product) - The product module for the store package
 - [grayl-store-sale](https://github.com/scottyrichardson/grayl-store-sale) - The store module for the store package
