@@ -46,10 +46,10 @@ Each package has its own repo and individual instructions if needed.
 
 | Package | Description |
 | -- | -- |
-| [grayl-display-content](https://github.com/grayl-php/grayl-display-content) | Content management from files - *archived* |
-| [grayl-display-template](https://github.com/grayl-php/grayl-display-template) | Parses templates using markup - *archived* |
-| [grayl-input-form](https://github.com/grayl-php/grayl-input-form) | Validates and sanitizes form input - *archived* |
-| [grayl-utility](https://github.com/grayl-php/grayl-utility) | Utilities and tools - *archived* |
+| [grayl-display-content](https://github.com/grayl-php/grayl-display-content) | *Archived*: Content management from files. |
+| [grayl-display-template](https://github.com/grayl-php/grayl-display-template) | *Archived*: Parses templates using markup. |
+| [grayl-input-form](https://github.com/grayl-php/grayl-input-form) | *Archived*: Validates and sanitizes form input. |
+| [grayl-utility](https://github.com/grayl-php/grayl-utility) | *Archived*: Utilities and tools. |
 
 ## Written by
 
